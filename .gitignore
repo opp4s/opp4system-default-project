@@ -1,0 +1,8 @@
+.DS_Store
+.claude-memory
+.wrangler/
+*.session
+node_modules/
+.env
+.env.local
+```
