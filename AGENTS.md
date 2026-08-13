@@ -98,8 +98,8 @@ ssh vps "systemctl list-timers --all"
 
 ### Uptime Kuma
 - **URL:** http://172.18.0.1:3001
-- **Credenciais:** admin / Opp4s@2026
-- **Notificação:** Telegram (@VPS_OPP4S_BOT)
+- **Credenciais:** admin / A305740a@
+- **Notificação:** Telegram (@OPP4S_Monitor_bot)
 
 ### Scripts de Notificação
 - `/opt/apps/multica-notify.sh` - Envia mensagens Telegram
